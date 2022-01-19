@@ -6,9 +6,7 @@
 Contact me here : <br>
 
 
-<a target="_blank" href="https://twitter.com/rouissiiheb1">
-  <img align="left" alt="rouissi iheb | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+
    <a target="_blank" href="https://www.instagram.com/abdessamedanas/?hl=fr">
   <img align="left"  eight="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  /></a>
    
