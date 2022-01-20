@@ -33,7 +33,7 @@
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Anas-abd1&theme=gotham)](https://github.com/Anas-abd1/github-readme-stats)
  
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="code.gif" width="500" height="320" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-abd1&layout=compact&show_icons=true&theme=dark&hide=html,css )](https://github.com/anuraghazra/github-readme-stats)
 <!--
