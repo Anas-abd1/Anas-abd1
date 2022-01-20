@@ -27,10 +27,13 @@
 </div>
 
 <br>
-[![GitHub followers](https://img.shields.io/github/followers/Anas-abd1?label=Follow&style=social)
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Anas-abd1&theme=gotham)](https://github.com/Anas-abd1/github-readme-stats)
  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anas-abd1" />
 
-[![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=Anas-abd1&show_icons=true&theme=dark  )](https://github.com/Anas-abd1)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-abd1&layout=compact&show_icons=true&theme=dark&hide=html,css )](https://github.com/anuraghazra/github-readme-stats)
 <!--
