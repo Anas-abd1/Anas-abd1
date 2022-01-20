@@ -29,7 +29,7 @@
 <br>
 <summary>📝 My GitHub Stats</summary>
 <br>
-<br>
+
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Anas-abd1&theme=gotham)](https://github.com/Anas-abd1/github-readme-stats)
  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anas-abd1" />
 
