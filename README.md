@@ -27,7 +27,7 @@
 </div>
 
 <br>
-![GitHub followers](https://img.shields.io/github/followers/Anas-abd1?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/Anas-abd1?label=Follow&style=social)
  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anas-abd1" />
 
 [![Rouissi's github stats](https://github-readme-stats.vercel.app/api?username=Anas-abd1&show_icons=true&theme=dark  )](https://github.com/Anas-abd1)
