@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
+    
 <!--<a href="https://stackoverflow.com/users/12297382/hamza">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
@@ -32,7 +33,7 @@
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Anas-abd1&theme=gotham)](https://github.com/Anas-abd1/github-readme-stats)
  
-
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-abd1&layout=compact&show_icons=true&theme=dark&hide=html,css )](https://github.com/anuraghazra/github-readme-stats)
 <!--
