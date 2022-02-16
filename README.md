@@ -31,7 +31,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[(https://github-readme-stats.vercel.app/api?username=Anas-abd1&theme=gotham)](https://github.com/Anas-abd1/github-readme-stats)](url)
+<!--[(https://github-readme-stats.vercel.app/api?username=Anas-abd1&theme=gotham)](https://github.com/Anas-abd1/github-readme-stats)](url)-->
  
 <img align="right" alt="GIF" src="code.gif" width="400" height="320" />
 
