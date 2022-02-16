@@ -31,25 +31,20 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Anas-abd1&theme=gotham)](https://github.com/Anas-abd1/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=Anas-abd1&theme=gotham)](https://github.com/Anas-abd1/github-readme-stats)
  
 <img align="right" alt="GIF" src="code.gif" width="400" height="320" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-abd1&layout=compact&show_icons=true&theme=dark&hide=html,css )](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Anas-abd1/Anas-abd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🔭 I’m currently working on my project
+- 🌱 I’m currently learning Angular and JAVA
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with Angular
+- 📫 How to reach me: anasabdessamad3@gmail.com
+- ⚡ Fun fact: The first computer bug was an actual real-life bug
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Anas-abd1" />
 
 
