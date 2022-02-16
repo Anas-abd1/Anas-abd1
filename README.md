@@ -40,7 +40,6 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my project
 - 🌱 I’m currently learning Angular and JAVA
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Angular
 - 📫 How to reach me: anasabdessamad3@gmail.com
 - ⚡ Fun fact: The first computer bug was an actual real-life bug
